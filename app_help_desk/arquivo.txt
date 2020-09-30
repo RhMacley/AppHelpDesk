@@ -1,0 +1,6 @@
+#Teste ADM#Rede#Teste adm 1
+#Teste ADM 2#Hardware#Teste adm 2
+#Jose teste 1#Hardware#Jose teste 1
+#Maria testes 1#Hardware#Maria teste 1
+#teste maria outro#Software#asadksdsds
+4#maria agora vai#Hardware#agora vai
